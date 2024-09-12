@@ -1,0 +1,14 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "Dice game",
+  "scripts": {
+    "start": "parcel inndex.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Marko P",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
